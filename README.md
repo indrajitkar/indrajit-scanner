@@ -4,6 +4,8 @@ git clone https://github.com/indrajitkar/indrjit-scanner.git
 ls 
 cd indrajit-scanner
 ls
+
+
 chmod +x L-Scan.py
 python L-Scan.py
 -[1]-  SQLi
